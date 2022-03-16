@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on spreadsheet
 - 🌱 I’m currently learning computer graphics
-- 📫 Mail to: wendellhu95@gmail.com
-- 🐦 Twitter: wendellhu95
+- 📫 Mail to: hullis@foxmail.com
+- 🐦 Twitter: [hullis_](https://twitter/hullis_)
 
 <!--
 **wendellhu95/wendellhu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
